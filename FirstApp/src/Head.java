@@ -24,7 +24,7 @@ public class Head {
             pb.setValue(i);
             Thread.sleep(300);
         }
-
+        frame.setBackground(Color.YELLOW);
     }
 
 }
